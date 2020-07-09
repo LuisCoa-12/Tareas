@@ -16,7 +16,7 @@ public class Empresa{
         this.tamano = tamano;
     }
     Empresa(){
-        this.nombre = "Microsoft";
+        this.nombre = "Samso";
         this.tamano = 50; 
     }
     public int getEmpleado(int get){
