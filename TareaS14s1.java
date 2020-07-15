@@ -19,6 +19,11 @@ class AnimalHervivoro extends Animal{
         System.out.println("Los animales hervivoros se alimentan de plantas");
     }
 }
+
+
+////OTRA CLASE////
+
+
 public class Principal{
     public static void main(String[] args) {
         
